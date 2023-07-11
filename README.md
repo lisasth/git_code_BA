@@ -2,7 +2,7 @@ Read me
 
 
 
-# Lisa Stuch BA Thesis - Code Implementation
+# BA Thesis - Code Implementation
 
 This folder contains the implementation of the created animacy classifiers A and B and the co-training algorithm.
 > **Important**: Since many files were larger than 25 MB it was not possible to store them on GitHub. If you want to run the code and a file is required which is for some reason not working here, refer to the USB stick to run the code. 
