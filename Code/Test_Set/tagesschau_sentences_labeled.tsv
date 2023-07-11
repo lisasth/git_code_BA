@@ -1,0 +1,878 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Animacy|Animated
+#T_SP=webanno.custom.CustomChunk|Chunk
+
+
+#Text=Das Angebot möblierter Wohnungen hat stark zugenommen.
+1-1	0-3	Das	_	B	
+1-2	4-11	Angebot	_	I	
+1-3	12-22	möblierter	_	B	
+1-4	23-32	Wohnungen	_	I	
+1-5	33-36	hat	_	_	
+1-6	37-42	stark	_	_	
+1-7	43-53	zugenommen	_	_	
+
+#Text=Diese können unter bestimmten Voraussetzungen deutlich teurer vermietet werden.
+2-1	56-61	Diese	_	B	
+2-2	62-68	können	_	_	
+2-3	69-74	unter	_	_	
+2-4	75-85	bestimmten	_	B	
+2-5	86-101	Voraussetzungen	_	I	
+2-6	102-110	deutlich	_	_	
+2-7	111-117	teurer	_	_	
+2-8	118-127	vermietet	_	_	
+2-9	128-134	werden	_	_	
+
+#Text=Gegen diesen Trend will die SPD nun mit strengeren Regeln vorgehen.
+3-1	137-142	Gegen	_	_	
+3-2	143-149	diesen	_	B	
+3-3	150-155	Trend	_	I	
+3-4	156-160	will	_	_	
+3-5	161-164	die	Animated[1]	B	
+3-6	165-168	SPD	Animated[1]	I	
+3-7	169-172	nun	_	_	
+3-8	173-176	mit	_	_	
+3-9	177-187	strengeren	_	B	
+3-10	188-194	Regeln	_	I	
+3-11	195-203	vorgehen	_	_	
+
+#Text=Die Ampelkoalition steht derzeit für eines: jede Menge Streit.
+4-1	206-209	Die	Animated[2]	B	
+4-2	210-224	Ampelkoalition	Animated[2]	I	
+4-3	225-230	steht	_	_	
+4-4	231-238	derzeit	_	_	
+4-5	239-242	für	_	_	
+4-6	243-248	eines	_	B	
+4-7	249-250	 	_	_	
+4-8	251-255	ede 	_	_	
+4-9	256-261	enge 	_	_	
+4-10	262-268	treit.	_	B	
+
+#Text=Dabei bekommen die drei Regierungspartner viele Gesetze auch ziemlich geräuschlos hin.
+5-1	271-276	Dabei	_	_	
+5-2	277-285	bekommen	_	_	
+5-3	286-289	die	Animated[3]	B	
+5-4	290-294	drei	Animated[3]	I	
+5-5	295-312	Regierungspartner	Animated[3]	I	
+5-6	313-318	viele	_	B	
+5-7	319-326	Gesetze	_	I	
+5-8	327-331	auch	_	_	
+5-9	332-340	ziemlich	_	_	
+5-10	341-352	geräuschlos	_	_	
+5-11	353-356	hin	_	_	
+
+#Text=Eigentlich sollte der Bundestag am letzten Tag vor der Sommerpause über das Energieeffizienz-Gesetz abstimmen.
+6-1	359-369	Eigentlich	_	_	
+6-2	370-376	sollte	_	_	
+6-3	377-380	der	Animated[4]	B	
+6-4	381-390	Bundestag	Animated[4]	I	
+6-5	391-393	am	_	_	
+6-6	394-401	letzten	_	B	
+6-7	402-405	Tag	_	I	
+6-8	406-409	vor	_	_	
+6-9	410-413	der	_	B	
+6-10	414-425	Sommerpause	_	I	
+6-11	426-430	über	_	_	
+6-12	431-434	das	_	B	
+6-13	435-458	Energieeffizienz-Gesetz	_	I	
+6-14	459-468	abstimmen	_	_	
+
+#Text=Doch das ging schief: Weil am Nachmittag nicht mehr genug Abgeordnete anwesend waren, musste die Sitzung beendet werden.
+7-1	471-475	Doch	_	_	
+7-2	476-479	das	_	B	
+7-3	480-484	ging	_	_	
+7-4	485-491	schief	_	_	
+7-5	492-493	 	_	_	
+7-6	494-498	eil 	_	_	
+7-7	499-501	m 	_	_	
+7-8	502-512	achmittag 	_	B	
+7-9	513-518	icht 	_	_	
+7-10	519-523	ehr 	_	_	
+7-11	524-529	enug 	_	_	
+7-12	530-541	bgeordnete 	Animated	B	
+7-13	542-550	nwesend 	_	_	
+7-14	551-556	aren,	_	_	
+7-15	557-558	m	_	_	
+7-16	559-565	sste d	_	_	
+7-17	566-569	e S	_	B	
+7-18	570-577	tzung b	_	I	
+7-19	578-585	endet w	_	_	
+
+#Text=Wer gemeinschaftlich gegen ein Unternehmen klagt, soll es künftig leichter haben.
+8-1	595-598	Wer	_	B	
+8-2	599-615	gemeinschaftlich	_	_	
+8-3	616-621	gegen	_	_	
+8-4	622-625	ein	Animated[5]	B	
+8-5	626-637	Unternehmen	Animated[5]	I	
+8-6	638-643	klagt	_	_	
+8-7	644-645	 	_	_	
+8-8	646-650	oll 	_	_	
+8-9	651-653	s 	_	_	
+8-10	654-661	ünftig 	_	_	
+8-11	662-670	eichter 	_	_	
+8-12	671-676	aben.	_	_	
+
+#Text=Ob bei annullierten Flügen oder unrechtmäßigen Vertragsklauseln: Das erweiterte Verbandsklagerecht sieht unter anderem schnellere Entschädigungen vor.
+9-1	679-681	Ob	_	_	
+9-2	682-685	bei	_	_	
+9-3	686-698	annullierten	_	B	
+9-4	699-705	Flügen	_	I	
+9-5	706-710	oder	_	_	
+9-6	711-725	unrechtmäßigen	_	B	
+9-7	726-742	Vertragsklauseln	_	I	
+9-8	743-744	 	_	_	
+9-9	745-748	as 	_	B	
+9-10	749-759	rweiterte 	_	I	
+9-11	760-778	erbandsklagerecht 	_	I	
+9-12	779-784	ieht 	_	_	
+9-13	785-790	nter 	_	_	
+9-14	791-798	nderem 	_	B	
+9-15	799-809	chnellere 	_	_	
+9-16	810-825	ntschädigungen 	_	_	
+9-17	826-829	or.	_	_	
+
+#Text=Bundestag und Bundesrat haben die Aufnahme des Hafens Mukran als Standort für ein LNG-Terminal in das entsprechende Gesetz beschlossen.
+10-1	832-841	Bundestag	Animated	B	
+10-2	842-845	und	_	_	
+10-3	846-855	Bundesrat	Animated	B	
+10-4	856-861	haben	_	_	
+10-5	862-865	die	_	B	
+10-6	866-874	Aufnahme	_	I	
+10-7	875-878	des	_	B	
+10-8	879-885	Hafens	_	I	
+10-9	886-892	Mukran	_	I	
+10-10	893-896	als	_	_	
+10-11	897-905	Standort	_	B	
+10-12	906-909	für	_	_	
+10-13	910-913	ein	_	B	
+10-14	914-926	LNG-Terminal	_	I	
+10-15	927-929	in	_	_	
+10-16	930-933	das	_	B	
+10-17	934-947	entsprechende	_	I	
+10-18	948-954	Gesetz	_	I	
+10-19	955-966	beschlossen	_	_	
+
+#Text=Die Kritik an den Plänen hält jedoch an, nicht nur bei der Opposition.
+11-1	969-972	Die	_	B	
+11-2	973-979	Kritik	_	I	
+11-3	980-982	an	_	_	
+11-4	983-986	den	_	B	
+11-5	987-993	Plänen	_	I	
+11-6	994-998	hält	_	_	
+11-7	999-1005	jedoch	_	_	
+11-8	1006-1008	an	_	_	
+11-9	1009-1010	 	_	_	
+11-10	1011-1016	icht 	_	_	
+11-11	1017-1020	ur 	_	_	
+11-12	1021-1024	ei 	_	_	
+11-13	1025-1028	er 	Animated[6]	B	
+11-14	1029-1039	pposition.	Animated[6]	I	
+
+#Text=Der SPD-Abgeordnete Schrodi muss wegen eines schweren "verbalen Angriffs" im Bundestag 1000 Euro Ordnungsgeld zahlen.
+12-1	1042-1045	Der	Animated[7]	B	
+12-2	1046-1061	SPD-Abgeordnete	Animated[7]	I	
+12-3	1062-1069	Schrodi	Animated[7]	I	
+12-4	1070-1074	muss	_	_	
+12-5	1075-1080	wegen	_	_	
+12-6	1081-1086	eines	_	B	
+12-7	1087-1095	schweren	_	I	
+12-8	1096-1097	"	_	I	
+12-9	1098-1106	erbalen 	_	I	
+12-10	1107-1115	ngriffs"	_	I	
+12-11	1116-1117	i	_	_	
+12-12	1118-1120	 B	_	_	
+12-13	1121-1130	ndestag 1	_	B	
+12-14	1131-1135	00 E	_	B	
+12-15	1136-1140	ro O	_	I	
+12-16	1141-1153	dnungsgeld z	_	B	
+
+#Text=Schrodi erklärte, er habe sich bereits mit dem betroffenen CDU-Vertreter ausgesprochen.
+13-1	1163-1170	Schrodi	Animated	B	
+13-2	1171-1179	erklärte	_	_	
+13-3	1180-1181	 	_	_	
+13-4	1182-1184	r 	_	B	
+13-5	1185-1189	abe 	_	_	
+13-6	1190-1194	ich 	_	B	
+13-7	1195-1202	ereits 	_	_	
+13-8	1203-1206	it 	_	_	
+13-9	1207-1210	em 	Animated[8]	B	
+13-10	1211-1222	etroffenen 	Animated[8]	I	
+13-11	1223-1236	DU-Vertreter 	Animated[8]	I	
+13-12	1237-1250	usgesprochen.	_	_	
+
+#Text=Michael Kretschmer ist viel unterwegs in Sachsen.
+14-1	1253-1260	Michael	Animated[9]	B	
+14-2	1261-1271	Kretschmer	Animated[9]	I	
+14-3	1272-1275	ist	_	_	
+14-4	1276-1280	viel	_	_	
+14-5	1281-1290	unterwegs	_	_	
+14-6	1291-1293	in	_	_	
+14-7	1294-1301	Sachsen	_	B	
+
+#Text=Auch politisch fährt der CDU-Politiker oft im Zickzackkurs.
+15-1	1304-1308	Auch	_	_	
+15-2	1309-1318	politisch	_	_	
+15-3	1319-1324	fährt	_	_	
+15-4	1325-1328	der	Animated[10]	B	
+15-5	1329-1342	CDU-Politiker	Animated[10]	I	
+15-6	1343-1346	oft	_	_	
+15-7	1347-1349	im	_	_	
+15-8	1350-1362	Zickzackkurs	_	B	
+
+#Text=Populismus werfen ihm seine Kritiker vor.
+16-1	1365-1375	Populismus	_	B	
+16-2	1376-1382	werfen	_	_	
+16-3	1383-1386	ihm	_	B	
+16-4	1387-1392	seine	Animated[11]	B	
+16-5	1393-1401	Kritiker	Animated[11]	I	
+16-6	1402-1405	vor	_	_	
+
+#Text=Über einen, der keine Scheu vor AfD-Themen hat.
+17-1	1408-1412	Über	_	_	
+17-2	1413-1418	einen	_	B	
+17-3	1419-1420	 	_	_	
+17-4	1421-1424	er 	_	B	
+17-5	1425-1430	eine 	_	B	
+17-6	1431-1436	cheu 	_	I	
+17-7	1437-1440	or 	_	_	
+17-8	1441-1451	fD-Themen 	_	B	
+17-9	1452-1455	at.	_	_	
+
+#Text=Statt abzustimmen debattiert der Bundestag erneut über das Heizungsgesetz.
+18-1	1458-1463	Statt	_	_	
+18-2	1464-1475	abzustimmen	_	_	
+18-3	1476-1486	debattiert	_	_	
+18-4	1487-1490	der	Animated[12]	B	
+18-5	1491-1500	Bundestag	Animated[12]	I	
+18-6	1501-1507	erneut	_	_	
+18-7	1508-1512	über	_	_	
+18-8	1513-1516	das	_	B	
+18-9	1517-1531	Heizungsgesetz	_	I	
+
+#Text=Vor allem die Union spart dabei nicht mit heftiger Kritik an der Ampelkoalition - doch aus deren Reihen fehlt ausgerechnet der Bundeswirtschaftsminister.
+19-1	1534-1537	Vor	_	_	
+19-2	1538-1543	allem	_	B	
+19-3	1544-1547	die	_	_	
+19-4	1548-1553	Union	_	_	
+19-5	1554-1559	spart	_	_	
+19-6	1560-1565	dabei	_	_	
+19-7	1566-1571	nicht	_	_	
+19-8	1572-1575	mit	_	_	
+19-9	1576-1584	heftiger	_	B	
+19-10	1585-1591	Kritik	_	I	
+19-11	1592-1594	an	_	_	
+19-12	1595-1598	der	Animated[13]	B	
+19-13	1599-1613	Ampelkoalition	Animated[13]	I	
+19-14	1614-1615	-	_	_	
+19-15	1616-1620	doch	_	_	
+19-16	1621-1624	aus	_	_	
+19-17	1625-1630	deren	_	B	
+19-18	1631-1637	Reihen	_	_	
+19-19	1638-1643	fehlt	_	_	
+19-20	1644-1656	ausgerechnet	Animated[14]	B	
+19-21	1657-1660	der	Animated[14]	I	
+19-22	1661-1686	Bundeswirtschaftsminister	Animated[14]	I	
+
+#Text=Der Bundestag hat den Hafen Mukran in das LNG-Beschleunigungsgesetz aufgenommen.
+20-1	1689-1692	Der	Animated[15]	B	
+20-2	1693-1702	Bundestag	Animated[15]	I	
+20-3	1703-1706	hat	_	_	
+20-4	1707-1710	den	_	B	
+20-5	1711-1716	Hafen	_	I	
+20-6	1717-1723	Mukran	_	I	
+20-7	1724-1726	in	_	_	
+20-8	1727-1730	das	_	B	
+20-9	1731-1756	LNG-Beschleunigungsgesetz	_	I	
+20-10	1757-1768	aufgenommen	_	_	
+
+#Text=Zwei schwimmende LNG-Terminals sollen dort stationiert werden.
+21-1	1771-1775	Zwei	_	B	
+21-2	1776-1787	schwimmende	_	I	
+21-3	1788-1801	LNG-Terminals	_	I	
+21-4	1802-1808	sollen	_	_	
+21-5	1809-1813	dort	_	_	
+21-6	1814-1825	stationiert	_	_	
+21-7	1826-1832	werden	_	_	
+
+#Text=Die Pläne bleiben umstritten - und Gegner kündigten bereits rechtliche Schritte an.
+22-1	1835-1838	Die	_	B	
+22-2	1839-1844	Pläne	_	I	
+22-3	1845-1852	bleiben	_	_	
+22-4	1853-1863	umstritten	_	_	
+22-5	1864-1865	-	_	_	
+22-6	1866-1869	und	_	_	
+22-7	1870-1876	Gegner	Animated	B	
+22-8	1877-1886	kündigten	_	_	
+22-9	1887-1894	bereits	_	_	
+22-10	1895-1905	rechtliche	_	B	
+22-11	1906-1914	Schritte	_	I	
+22-12	1915-1917	an	_	_	
+
+#Text=Im DeutschlandTrend steigt die AfD zur zweitstärksten Kraft auf.
+23-1	1920-1922	Im	_	_	
+23-2	1923-1939	DeutschlandTrend	_	B	
+23-3	1940-1946	steigt	_	_	
+23-4	1947-1950	die	Animated[16]	B	
+23-5	1951-1954	AfD	Animated[16]	I	
+23-6	1955-1958	zur	_	_	
+23-7	1959-1973	zweitstärksten	_	B	
+23-8	1974-1979	Kraft	_	I	
+23-9	1980-1983	auf	_	_	
+
+#Text=Kanzler Scholz nennt sie eine "Schlechte-Laune-Partei", CDU-Chef Merz erklärt sie zum "Feind".
+24-1	1986-1993	Kanzler	Animated[17]	B	
+24-2	1994-2000	Scholz	Animated[17]	I	
+24-3	2001-2006	nennt	_	_	
+24-4	2007-2010	sie	_	B	
+24-5	2011-2015	eine	Animated[18]	B	
+24-6	2016-2017	"	Animated[18]	I	
+24-7	2018-2040	chlechte-Laune-Partei"	Animated[18]	I	
+24-8	2041-2042	 	_	_	
+24-9	2043-2044	D	_	_	
+24-10	2045-2053	-Chef Me	_	B	
+24-11	2054-2058	z er	_	I	
+24-12	2059-2066	lärt si	_	_	
+24-13	2067-2070	 zu	_	B	
+24-14	2071-2074	 "F	_	_	
+24-15	2075-2076	i	_	B	
+
+#Text=Eine Strategie zum Umgang mit der AfD aber fehlt.
+25-1	2087-2091	Eine	_	B	
+25-2	2092-2101	Strategie	_	I	
+25-3	2102-2105	zum	_	_	
+25-4	2106-2112	Umgang	_	B	
+25-5	2113-2116	mit	_	_	
+25-6	2117-2120	der	Animated[19]	B	
+25-7	2121-2124	AfD	Animated[19]	I	
+25-8	2125-2129	aber	_	_	
+25-9	2130-2135	fehlt	_	_	
+
+#Text=Der Bundesrat hat das Fachkräfteeinwanderungsgesetz gebilligt.
+26-1	2138-2141	Der	Animated[20]	B	
+26-2	2142-2151	Bundesrat	Animated[20]	I	
+26-3	2152-2155	hat	_	_	
+26-4	2156-2159	das	_	B	
+26-5	2160-2189	Fachkräfteeinwanderungsgesetz	_	I	
+26-6	2190-2199	gebilligt	_	_	
+
+#Text=Für Unternehmen soll es damit einfacher werden, Personal aus dem Ausland anzuwerben.
+27-1	2202-2205	Für	_	_	
+27-2	2206-2217	Unternehmen	Animated	B	
+27-3	2218-2222	soll	_	_	
+27-4	2223-2225	es	_	_	
+27-5	2226-2231	damit	_	_	
+27-6	2232-2241	einfacher	_	_	
+27-7	2242-2248	werden	_	_	
+27-8	2249-2250	 	_	_	
+27-9	2251-2259	ersonal 	Animated	B	
+27-10	2260-2263	us 	_	_	
+27-11	2264-2267	em 	_	B	
+27-12	2268-2275	usland 	_	I	
+27-13	2276-2286	nzuwerben.	_	_	
+
+#Text=Die Berliner Charité tut das schon jetzt - mit Erfolg.
+28-1	2289-2292	Die	Animated[21]	B	
+28-2	2293-2301	Berliner	Animated[21]	I	
+28-3	2302-2309	Charité	Animated[21]	I	
+28-4	2310-2313	tut	_	_	
+28-5	2314-2317	das	_	B	
+28-6	2318-2323	schon	_	_	
+28-7	2324-2329	jetzt	_	_	
+28-8	2330-2331	-	_	_	
+28-9	2332-2335	mit	_	_	
+28-10	2336-2342	Erfolg	_	B	
+
+#Text=Im Bundestag sind Vorschläge für ein neues Sterbehilfe-Gesetz gescheitert.
+29-1	2345-2347	Im	_	_	
+29-2	2348-2357	Bundestag	Animated	B	
+29-3	2358-2362	sind	_	_	
+29-4	2363-2373	Vorschläge	_	B	
+29-5	2374-2377	für	_	_	
+29-6	2378-2381	ein	_	B	
+29-7	2382-2387	neues	_	I	
+29-8	2388-2406	Sterbehilfe-Gesetz	_	I	
+29-9	2407-2418	gescheitert	_	_	
+
+#Text=Die Debatte war für die Abgeordneten ein Balanceakt zwischen dem Schutz der Selbstbestimmung und dem Schutz des Lebens.
+30-1	2421-2424	Die	_	B	
+30-2	2425-2432	Debatte	_	I	
+30-3	2433-2436	war	_	_	
+30-4	2437-2440	für	_	_	
+30-5	2441-2444	die	Animated[22]	B	
+30-6	2445-2457	Abgeordneten	Animated[22]	I	
+30-7	2458-2461	ein	_	B	
+30-8	2462-2472	Balanceakt	_	I	
+30-9	2473-2481	zwischen	_	_	
+30-10	2482-2485	dem	_	B	
+30-11	2486-2492	Schutz	_	I	
+30-12	2493-2496	der	_	B	
+30-13	2497-2513	Selbstbestimmung	_	I	
+30-14	2514-2517	und	_	_	
+30-15	2518-2521	dem	_	B	
+30-16	2522-2528	Schutz	_	I	
+30-17	2529-2532	des	_	B	
+30-18	2533-2539	Lebens	_	I	
+
+#Text=Am Ende blieb der Graubereich.
+31-1	2542-2544	Am	_	_	
+31-2	2545-2549	Ende	_	B	
+31-3	2550-2555	blieb	_	_	
+31-4	2556-2559	der	_	B	
+31-5	2560-2571	Graubereich	_	I	
+
+#Text=Durch die geplante Legalisierung von Cannabis rechnet das Gesundheitsministerium mit finanziellen Einsparungen bei der Strafverfolgung in Milliardenhöhe.
+32-1	2574-2579	Durch	_	_	
+32-2	2580-2583	die	_	B	
+32-3	2584-2592	geplante	_	I	
+32-4	2593-2606	Legalisierung	_	I	
+32-5	2607-2610	von	_	_	
+32-6	2611-2619	Cannabis	_	B	
+32-7	2620-2627	rechnet	_	_	
+32-8	2628-2631	das	Animated[23]	B	
+32-9	2632-2654	Gesundheitsministerium	Animated[23]	I	
+32-10	2655-2658	mit	_	_	
+32-11	2659-2671	finanziellen	_	B	
+32-12	2672-2684	Einsparungen	_	I	
+32-13	2685-2688	bei	_	_	
+32-14	2689-2692	der	_	B	
+32-15	2693-2708	Strafverfolgung	_	I	
+32-16	2709-2711	in	_	_	
+32-17	2712-2726	Milliardenhöhe	_	B	
+
+#Text=Das geht aus einem neuen Gesetzentwurf hervor.
+33-1	2729-2732	Das	_	B	
+33-2	2733-2737	geht	_	_	
+33-3	2738-2741	aus	_	_	
+33-4	2742-2747	einem	_	B	
+33-5	2748-2753	neuen	_	I	
+33-6	2754-2767	Gesetzentwurf	_	I	
+33-7	2768-2774	hervor	_	_	
+
+#Text=Das Bundesverfassungsgericht hat die Abstimmung im Bundestag zum Heizungsgesetz vorläufig gestoppt.
+34-1	2777-2780	Das	Animated[24]	B	
+34-2	2781-2805	Bundesverfassungsgericht	Animated[24]	I	
+34-3	2806-2809	hat	_	_	
+34-4	2810-2813	die	_	B	
+34-5	2814-2824	Abstimmung	_	I	
+34-6	2825-2827	im	_	_	
+34-7	2828-2837	Bundestag	Animated	B	
+34-8	2838-2841	zum	_	_	
+34-9	2842-2856	Heizungsgesetz	_	B	
+34-10	2857-2866	vorläufig	_	_	
+34-11	2867-2875	gestoppt	_	_	
+
+#Text=Was die Entscheidung bedeutet - und was nicht.
+35-1	2878-2881	Was	_	B	
+35-2	2882-2885	die	_	B	
+35-3	2886-2898	Entscheidung	_	I	
+35-4	2899-2907	bedeutet	_	_	
+35-5	2908-2909	-	_	_	
+35-6	2910-2913	und	_	_	
+35-7	2914-2917	was	_	B	
+35-8	2918-2923	nicht	_	_	
+
+#Text=Die Gesundheitsminister von Bund und Ländern sehen noch erheblichen Klärungsbedarf bei der geplanten Krankenhausreform.
+36-1	2926-2929	Die	Animated[25]	B	
+36-2	2930-2949	Gesundheitsminister	Animated[25]	I	
+36-3	2950-2953	von	_	_	
+36-4	2954-2958	Bund	Animated	B	
+36-5	2959-2962	und	_	_	
+36-6	2963-2970	Ländern	Animated	B	
+36-7	2971-2976	sehen	_	_	
+36-8	2977-2981	noch	_	_	
+36-9	2982-2993	erheblichen	_	B	
+36-10	2994-3008	Klärungsbedarf	_	I	
+36-11	3009-3012	bei	_	_	
+36-12	3013-3016	der	_	B	
+36-13	3017-3026	geplanten	_	I	
+36-14	3027-3044	Krankenhausreform	_	I	
+
+#Text=Bundesgesundheitsminister Lauterbach sprach von "sechs großen Problemen".
+37-1	3047-3072	Bundesgesundheitsminister	Animated[26]	B	
+37-2	3073-3083	Lauterbach	Animated[26]	I	
+37-3	3084-3090	sprach	_	_	
+37-4	3091-3094	von	_	_	
+37-5	3095-3096	"	_	B	
+37-6	3097-3102	echs 	_	I	
+37-7	3103-3109	roßen 	_	I	
+37-8	3110-3119	roblemen"	_	I	
+
+#Text=Auf der Zielgeraden ausgebremst: Der vorläufige Stopp des Heizungsgesetzes hat so manchen Ampelpolitiker kalt erwischt.
+38-1	3124-3127	Auf	_	_	
+38-2	3128-3131	der	_	B	
+38-3	3132-3143	Zielgeraden	_	I	
+38-4	3144-3155	ausgebremst	_	_	
+38-5	3156-3157	 	_	_	
+38-6	3158-3161	er 	_	B	
+38-7	3162-3172	orläufige 	_	I	
+38-8	3173-3178	topp 	_	I	
+38-9	3179-3182	es 	_	B	
+38-10	3183-3199	eizungsgesetzes 	_	I	
+38-11	3200-3203	at 	_	_	
+38-12	3204-3206	o 	Animated[27]	B	
+38-13	3207-3214	anchen 	Animated[27]	I	
+38-14	3215-3229	mpelpolitiker 	Animated[27]	I	
+38-15	3230-3234	alt 	_	_	
+38-16	3235-3243	rwischt.	_	_	
+
+#Text=Dabei ist die Stimmung in der Koalition schon schlecht genug.
+39-1	3246-3251	Dabei	_	_	
+39-2	3252-3255	ist	_	_	
+39-3	3256-3259	die	_	B	
+39-4	3260-3268	Stimmung	_	I	
+39-5	3269-3271	in	_	_	
+39-6	3272-3275	der	Animated[28]	B	
+39-7	3276-3285	Koalition	Animated[28]	I	
+39-8	3286-3291	schon	_	_	
+39-9	3292-3300	schlecht	_	_	
+39-10	3301-3306	genug	_	_	
+
+#Text=Das Heizungsgesetz soll erst nach der Sommerpause beschlossen werden.
+40-1	3309-3312	Das	_	B	
+40-2	3313-3327	Heizungsgesetz	_	I	
+40-3	3328-3332	soll	_	_	
+40-4	3333-3337	erst	_	_	
+40-5	3338-3342	nach	_	_	
+40-6	3343-3346	der	_	B	
+40-7	3347-3358	Sommerpause	_	I	
+40-8	3359-3370	beschlossen	_	_	
+40-9	3371-3377	werden	_	_	
+
+#Text=Die Ampel verzichtet auf eine Sondersitzung des Bundestags.
+41-1	3380-3383	Die	Animated[29]	B	
+41-2	3384-3389	Ampel	Animated[29]	I	
+41-3	3390-3400	verzichtet	_	_	
+41-4	3401-3404	auf	_	_	
+41-5	3405-3409	eine	_	B	
+41-6	3410-3423	Sondersitzung	_	I	
+41-7	3424-3427	des	Animated[30]	B	
+41-8	3428-3438	Bundestags	Animated[30]	I	
+
+#Text=Was bleibt: eine angeschlagene Koalition und eine Union, die frohlockt.
+42-1	3441-3444	Was	_	B	
+42-2	3445-3451	bleibt	_	_	
+42-3	3452-3453	 	_	_	
+42-4	3454-3458	ine 	Animated[31]	B	
+42-5	3459-3472	ngeschlagene 	Animated[31]	I	
+42-6	3473-3482	oalition 	Animated[31]	I	
+42-7	3483-3486	nd 	_	_	
+42-8	3487-3491	ine 	Animated[32]	B	
+42-9	3492-3497	nion,	Animated[32]	I	
+42-10	3498-3499	d	_	_	
+42-11	3500-3503	e f	_	B	
+
+#Text=Wie es nun weitergeht.
+43-1	3516-3519	Wie	_	_	
+43-2	3520-3522	es	_	B	
+43-3	3523-3526	nun	_	_	
+43-4	3527-3537	weitergeht	_	_	
+
+#Text=Im Bundestag ging es heute um eine Gewissensentscheidung: Ob und wie soll die Sterbehilfe geregelt werden?
+44-1	3540-3542	Im	_	_	
+44-2	3543-3552	Bundestag	Animated	B	
+44-3	3553-3557	ging	_	_	
+44-4	3558-3560	es	_	_	
+44-5	3561-3566	heute	_	_	
+44-6	3567-3569	um	_	_	
+44-7	3570-3574	eine	_	B	
+44-8	3575-3596	Gewissensentscheidung	_	I	
+44-9	3597-3598	 	_	_	
+44-10	3599-3601	b 	_	_	
+44-11	3602-3605	nd 	_	_	
+44-12	3606-3609	ie 	_	_	
+44-13	3610-3614	oll 	_	_	
+44-14	3615-3618	ie 	_	B	
+44-15	3619-3630	terbehilfe 	_	I	
+44-16	3631-3639	eregelt 	_	_	
+44-17	3640-3646	erden?	_	_	
+
+#Text=Zwei Gesetzentwürfe lagen vor, beide scheiterten.
+45-1	3649-3653	Zwei	_	B	
+45-2	3654-3668	Gesetzentwürfe	_	I	
+45-3	3669-3674	lagen	_	_	
+45-4	3675-3678	vor	_	_	
+45-5	3679-3680	 	_	_	
+45-6	3681-3686	eide 	_	B	
+45-7	3687-3698	cheiterten.	_	_	
+
+#Text=Wie unterscheiden sie sich?
+46-1	3701-3704	Wie	_	_	
+46-2	3705-3718	unterscheiden	_	_	
+46-3	3719-3722	sie	_	B	
+46-4	3723-3727	sich	_	B	
+
+#Text=Und was gilt jetzt?
+47-1	3730-3733	Und	_	_	
+47-2	3734-3737	was	_	B	
+47-3	3738-3742	gilt	_	_	
+47-4	3743-3748	jetzt	_	_	
+
+#Text=Im Streit um Schadensersatz für die geplatzte Pkw-Maut gibt es laut Betreiberseite eine Verständigung.
+48-1	3751-3753	Im	_	_	
+48-2	3754-3760	Streit	_	B	
+48-3	3761-3763	um	_	_	
+48-4	3764-3778	Schadensersatz	_	B	
+48-5	3779-3782	für	_	_	
+48-6	3783-3786	die	_	B	
+48-7	3787-3796	geplatzte	_	I	
+48-8	3797-3805	Pkw-Maut	_	I	
+48-9	3806-3810	gibt	_	_	
+48-10	3811-3813	es	_	_	
+48-11	3814-3818	laut	_	_	
+48-12	3819-3833	Betreiberseite	_	B	
+48-13	3834-3838	eine	_	B	
+48-14	3839-3852	Verständigung	_	I	
+
+#Text=Demnach ist eine Zahlung des Bundes von 243 Millionen Euro zu erwarten.
+49-1	3855-3862	Demnach	_	_	
+49-2	3863-3866	ist	_	_	
+49-3	3867-3871	eine	_	B	
+49-4	3872-3879	Zahlung	_	I	
+49-5	3880-3883	des	Animated[33]	B	
+49-6	3884-3890	Bundes	Animated[33]	I	
+49-7	3891-3894	von	_	_	
+49-8	3895-3898	243	_	B	
+49-9	3899-3908	Millionen	_	I	
+49-10	3909-3913	Euro	_	I	
+49-11	3914-3916	zu	_	_	
+49-12	3917-3925	erwarten	_	_	
+
+#Text=Verkehrsminister Wissing zeigte sich ernüchtert.
+50-1	3928-3944	Verkehrsminister	Animated[34]	B	
+50-2	3945-3952	Wissing	Animated[34]	I	
+50-3	3953-3959	zeigte	_	_	
+50-4	3960-3964	sich	_	B	
+50-5	3965-3975	ernüchtert	_	_	
+
+#Text=Kein anderer Minister muss so viel einsparen wie der Gesundheitsminister.
+51-1	3978-3982	Kein	Animated[35]	B	
+51-2	3983-3990	anderer	Animated[35]	I	
+51-3	3991-3999	Minister	Animated[35]	I	
+51-4	4000-4004	muss	_	_	
+51-5	4005-4007	so	_	B	
+51-6	4008-4012	viel	_	I	
+51-7	4013-4022	einsparen	_	_	
+51-8	4023-4026	wie	_	_	
+51-9	4027-4030	der	_	_	
+51-10	4031-4050	Gesundheitsminister	_	_	
+
+#Text=Heikel ist das im Bereich Pflege - aber auch bei der Suchtprävention, etwa bei Cannabis.
+52-1	4053-4059	Heikel	_	B	
+52-2	4060-4063	ist	_	_	
+52-3	4064-4067	das	_	B	
+52-4	4068-4070	im	_	_	
+52-5	4071-4078	Bereich	_	B	
+52-6	4079-4085	Pflege	_	I	
+52-7	4086-4087	-	_	_	
+52-8	4088-4092	aber	_	_	
+52-9	4093-4097	auch	_	_	
+52-10	4098-4101	bei	_	_	
+52-11	4102-4105	der	_	B	
+52-12	4106-4121	Suchtprävention	_	I	
+52-13	4122-4123	 	_	_	
+52-14	4124-4128	twa 	_	_	
+52-15	4129-4132	ei 	_	_	
+52-16	4133-4141	annabis.	_	B	
+
+#Text=Denn eigentlich sieht Lauterbach gerade hier Handlungsbedarf.
+53-1	4144-4148	Denn	_	_	
+53-2	4149-4159	eigentlich	_	_	
+53-3	4160-4165	sieht	_	_	
+53-4	4166-4176	Lauterbach	Animated	B	
+53-5	4177-4183	gerade	_	_	
+53-6	4184-4188	hier	_	_	
+53-7	4189-4204	Handlungsbedarf	_	B	
+
+#Text=Das Kabinett hat den Haushaltsentwurf für 2024 beschlossen.
+54-1	4207-4210	Das	Animated[36]	B	
+54-2	4211-4219	Kabinett	Animated[36]	I	
+54-3	4220-4223	hat	_	_	
+54-4	4224-4227	den	_	B	
+54-5	4228-4244	Haushaltsentwurf	_	I	
+54-6	4245-4248	für	_	_	
+54-7	4249-4253	2024	_	_	
+54-8	4254-4265	beschlossen	_	_	
+
+#Text=Geplant sind deutliche Kürzungen.
+55-1	4268-4275	Geplant	_	_	
+55-2	4276-4280	sind	_	_	
+55-3	4281-4290	deutliche	_	B	
+55-4	4291-4300	Kürzungen	_	I	
+
+#Text=Für Finanzminister Lindner werden "die finanzpolitischen Realitäten" anerkannt.
+56-1	4303-4306	Für	_	_	
+56-2	4307-4321	Finanzminister	Animated[37]	B	
+56-3	4322-4329	Lindner	Animated[37]	I	
+56-4	4330-4336	werden	_	_	
+56-5	4337-4338	"	_	B	
+56-6	4339-4342	ie 	_	I	
+56-7	4343-4360	inanzpolitischen 	_	I	
+56-8	4361-4371	ealitäten"	_	I	
+56-9	4372-4373	a	_	_	
+
+#Text=Kanzler Scholz betont die oberste Priorität der Sicherheit.
+57-1	4386-4393	Kanzler	Animated[38]	B	
+57-2	4394-4400	Scholz	Animated[38]	I	
+57-3	4401-4407	betont	_	_	
+57-4	4408-4411	die	_	B	
+57-5	4412-4419	oberste	_	I	
+57-6	4420-4429	Priorität	_	I	
+57-7	4430-4433	der	_	B	
+57-8	4434-4444	Sicherheit	_	I	
+
+#Text=Familienministerin Paus muss sparen - und setzt beim Elterngeld für besserverdienende Paare an.
+58-1	4447-4465	Familienministerin	Animated[39]	B	
+58-2	4466-4470	Paus	Animated[39]	I	
+58-3	4471-4475	muss	_	_	
+58-4	4476-4482	sparen	_	_	
+58-5	4483-4484	-	_	_	
+58-6	4485-4488	und	_	_	
+58-7	4489-4494	setzt	_	_	
+58-8	4495-4499	beim	_	_	
+58-9	4500-4510	Elterngeld	_	B	
+58-10	4511-4514	für	_	_	
+58-11	4515-4532	besserverdienende	Animated[40]	B	
+58-12	4533-4538	Paare	Animated[40]	I	
+58-13	4539-4541	an	_	_	
+
+#Text=Das gefällt dem Koalitionspartner FDP gar nicht.
+59-1	4544-4547	Das	_	B	
+59-2	4548-4555	gefällt	_	_	
+59-3	4556-4559	dem	Animated[41]	B	
+59-4	4560-4577	Koalitionspartner	Animated[41]	I	
+59-5	4578-4581	FDP	Animated[41]	I	
+59-6	4582-4585	gar	_	_	
+59-7	4586-4591	nicht	_	_	
+
+#Text=Und richtig glücklich ist auch die Ministerin nicht.
+60-1	4594-4597	Und	_	_	
+60-2	4598-4605	richtig	_	_	
+60-3	4606-4615	glücklich	_	_	
+60-4	4616-4619	ist	_	_	
+60-5	4620-4624	auch	Animated[42]	B	
+60-6	4625-4628	die	Animated[42]	I	
+60-7	4629-4639	Ministerin	Animated[42]	I	
+60-8	4640-4645	nicht	_	_	
+
+#Text=Verteidigungsminister Pistorius wollte zehn Milliarden Euro mehr für die Bundeswehr - bekommen hat er gerade mal 1,7 Milliarden Euro.
+61-1	4648-4669	Verteidigungsminister	Animated[43]	B	
+61-2	4670-4679	Pistorius	Animated[43]	I	
+61-3	4680-4686	wollte	_	_	
+61-4	4687-4691	zehn	_	_	
+61-5	4692-4702	Milliarden	_	_	
+61-6	4703-4707	Euro	_	B	
+61-7	4708-4712	mehr	_	_	
+61-8	4713-4716	für	_	_	
+61-9	4717-4720	die	Animated[44]	B	
+61-10	4721-4731	Bundeswehr	Animated[44]	I	
+61-11	4732-4733	-	_	_	
+61-12	4734-4742	bekommen	_	_	
+61-13	4743-4746	hat	_	_	
+61-14	4747-4749	er	_	B	
+61-15	4750-4756	gerade	_	B	
+61-16	4757-4760	mal	_	I	
+61-17	4761-4764	1,7	_	I	
+61-18	4765-4775	Milliarden	_	I	
+61-19	4776-4780	Euro	_	I	
+
+#Text=Ihm hilft eine Allzweckwaffe.
+62-1	4783-4786	Ihm	_	B	
+62-2	4787-4792	hilft	_	_	
+62-3	4793-4797	eine	_	B	
+62-4	4798-4811	Allzweckwaffe	_	I	
+
+#Text=Das Kabinett hat den Haushaltsentwurf für das kommende Jahr verabschiedet.
+63-1	4814-4817	Das	Animated[45]	B	
+63-2	4818-4826	Kabinett	Animated[45]	I	
+63-3	4827-4830	hat	_	_	
+63-4	4831-4834	den	_	B	
+63-5	4835-4851	Haushaltsentwurf	_	I	
+63-6	4852-4855	für	_	_	
+63-7	4856-4859	das	_	B	
+63-8	4860-4868	kommende	_	I	
+63-9	4869-4873	Jahr	_	I	
+63-10	4874-4887	verabschiedet	_	_	
+
+#Text=Vorausgegangen waren Spannungen innerhalb der Ampel-Regierung - inklusive öffentlicher Briefwechsel.
+64-1	4890-4904	Vorausgegangen	_	_	
+64-2	4905-4910	waren	_	_	
+64-3	4911-4921	Spannungen	_	B	
+64-4	4922-4931	innerhalb	_	_	
+64-5	4932-4935	der	Animated[46]	B	
+64-6	4936-4951	Ampel-Regierung	Animated[46]	I	
+64-7	4952-4953	-	_	_	
+64-8	4954-4963	inklusive	_	_	
+64-9	4964-4976	öffentlicher	_	B	
+64-10	4977-4989	Briefwechsel	_	I	
+
+#Text=Das Bundeskabinett hat den Entwurf für den Haushalt 2024 beschlossen.
+65-1	4992-4995	Das	Animated[47]	B	
+65-2	4996-5010	Bundeskabinett	Animated[47]	I	
+65-3	5011-5014	hat	_	_	
+65-4	5015-5018	den	_	B	
+65-5	5019-5026	Entwurf	_	I	
+65-6	5027-5030	für	_	_	
+65-7	5031-5034	den	_	B	
+65-8	5035-5043	Haushalt	_	I	
+65-9	5044-5048	2024	_	_	
+65-10	5049-5060	beschlossen	_	_	
+
+#Text=Er enthält einige dicke Brocken, gespart wird aber trotzdem.
+66-1	5063-5065	Er	_	B	
+66-2	5066-5073	enthält	_	_	
+66-3	5074-5080	einige	_	B	
+66-4	5081-5086	dicke	_	I	
+66-5	5087-5094	Brocken	_	I	
+66-6	5095-5096	 	_	_	
+66-7	5097-5104	espart 	_	_	
+66-8	5105-5109	ird 	_	_	
+66-9	5110-5114	ber 	_	_	
+66-10	5115-5123	rotzdem.	_	_	
+
+#Text=Wofür die Ampel Geld ausgeben will - und wo sie noch streitet.
+67-1	5126-5131	Wofür	_	_	
+67-2	5132-5135	die	_	B	
+67-3	5136-5141	Ampel	_	I	
+67-4	5142-5146	Geld	_	B	
+67-5	5147-5155	ausgeben	_	_	
+67-6	5156-5160	will	_	_	
+67-7	5161-5162	-	_	_	
+67-8	5163-5166	und	_	_	
+67-9	5167-5169	wo	_	_	
+67-10	5170-5173	sie	_	B	
+67-11	5174-5178	noch	_	_	
+67-12	5179-5187	streitet	_	_	
+
+#Text=Die Ampelfraktionen haben weitere Details zum Heizungsgesetz ausgearbeitet.
+68-1	5190-5193	Die	Animated[48]	B	
+68-2	5194-5209	Ampelfraktionen	Animated[48]	I	
+68-3	5210-5215	haben	_	_	
+68-4	5216-5223	weitere	_	B	
+68-5	5224-5231	Details	_	I	
+68-6	5232-5235	zum	_	_	
+68-7	5236-5250	Heizungsgesetz	_	B	
+68-8	5251-5264	ausgearbeitet	_	_	
+
+#Text=Es geht um die konkreten Fördersummen für einen Heizungsaustausch.
+69-1	5267-5269	Es	_	_	
+69-2	5270-5274	geht	_	_	
+69-3	5275-5277	um	_	_	
+69-4	5278-5281	die	_	B	
+69-5	5282-5291	konkreten	_	I	
+69-6	5292-5304	Fördersummen	_	I	
+69-7	5305-5308	für	_	_	
+69-8	5309-5314	einen	_	B	
+69-9	5315-5332	Heizungsaustausch	_	I	
+
+#Text=Die Parteien stimmten einem Antrag zu, der dem ARD-Hauptstadtstudio vorliegt.
+70-1	5335-5338	Die	Animated[49]	B	
+70-2	5339-5347	Parteien	Animated[49]	I	
+70-3	5348-5356	stimmten	_	_	
+70-4	5357-5362	einem	_	B	
+70-5	5363-5369	Antrag	_	I	
+70-6	5370-5372	zu	_	_	
+70-7	5373-5374	 	_	_	
+70-8	5375-5378	er 	_	B	
+70-9	5379-5382	em 	Animated[50]	B	
+70-10	5383-5403	RD-Hauptstadtstudio 	Animated[50]	I	
+70-11	5404-5412	orliegt.	_	_	
